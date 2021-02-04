@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JSON Web Token - JWT
 -
 ## :notebook: Projeto
-O repositório é uma aplicação exemplo, onde é possivel cadastrar e listar usuários utilizando a autenticação de sessão por criptografia com JWT
+O repositório é uma aplicação exemplo, onde é possivel cadastrar e listar usuários utilizando a autenticação de sessão com uso de criptografia com JWT
 
 ## :memo: Licença
 Esse projeto está sobre a licença MIT. Veja o arquivo <a href="#">LICENSE</a>
