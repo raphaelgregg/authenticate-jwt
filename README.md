@@ -9,6 +9,10 @@
 <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="aunthenticatejwt" src=".github/jwt-ts-tsorm.png" width="100%">
+</p>
+
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
